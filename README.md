@@ -7,4 +7,6 @@
 :shinto_shrine: **0** - **0** :people_holding_hands: 
 
 ### ゲーム１
-- ![game01](game01/my.png)
+- 期限: 2024. 2. 29
+- ボーナス: 道頓堀で寒中水泳
+- サーブ: ![game01](game01/my.png)
