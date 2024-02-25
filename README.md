@@ -15,6 +15,7 @@
 - サーブ: (2/29以降発表予定)
 
 ### ゲーム１
+- [Result](https://github.com/anissatta/tt-pingpong/tree/main/game01)
 - 期限: 2024. 2. 29
 - ボーナス: 道頓堀で寒中水泳
 - サーブ: ![game01](game01/my.png)
