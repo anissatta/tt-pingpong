@@ -28,6 +28,6 @@
 ##### 2-2. COEVO K. K. 
 - https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=6010401164817
 - ![coevo2](coevo2.png)
-  - No!  It (*東京都港区赤坂１丁目１２番３２号アーク森ビル*) isn't its address of the HQ it states on [its website!](https://www.coevo.co.jp/)  Haiyaa...  You should have registered *東京都港区愛宕1丁目1-1* as you states on https://www.coevo.co.jp/ instead of this...  And this is...
+  - No!  It (*東京都港区赤坂１丁目１２番３２号アーク森ビル*) isn't its address of the HQ it states on [its website!](https://www.coevo.co.jp/)  Haiyaa...  You should have registered *東京都港区愛宕1丁目1-1* as you state on https://www.coevo.co.jp/ instead of this...  And this is...
 - ![uia](uia.png)
   - This is the address of *U&I Advisory Service Co., Ltd.* which I mentioned above!  Haiyaa... :disappointed: 
