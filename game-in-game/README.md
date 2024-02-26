@@ -15,3 +15,7 @@
 ##### 1-3. COEVO K. K. 
 - ![coevo](coevo.png)
   - Hey, what the hell is this *U&I Advisory Service Co., Ltd.* which is registered in the record for COEVO K. K.?  Haiyaa...  
+
+### 2. Where are the HQ of these companies? 
+- In Japan, every company has a duty to register information about itself, including its headquarters address, etc., and some of the information can be viewed via [NTA's](https://en.wikipedia.org/wiki/National_Tax_Agency) *Houjin-bangou Ko-hyo Site.*  So let us see what it says about ordinary companies in Japan and our COEVO K. K.:
+  - https://www.houjin-bangou.nta.go.jp/
