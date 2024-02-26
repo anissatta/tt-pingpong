@@ -19,3 +19,13 @@
 ### 2. Where are the HQ of these companies? 
 - In Japan, every company has a duty to register information about itself, including its headquarters address, etc., and some of the information can be viewed via [NTA's](https://en.wikipedia.org/wiki/National_Tax_Agency) *Houjin-bangou Ko-hyo Site.*  So let us see what it says about ordinary companies in Japan and our COEVO K. K.:
   - https://www.houjin-bangou.nta.go.jp/
+
+##### 2-1. CJ Foods Japan 
+- https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=5010401146849
+- ![cj](cj.png)
+  - It has registered the address correctly as *東京都港区西新橋２丁目７番４号.*  Fuiyoh!  I buy your products!
+
+##### 2-2. COEVO K. K. 
+- https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=6010401164817
+- ![coevo2](coevo2.png)
+  - No!  It (*東京都港区赤坂１丁目１２番３２号アーク森ビル*) isn't its address for the HQ it states on [its website!](https://www.coevo.co.jp/)  Haiyaa...  
