@@ -6,6 +6,7 @@
 - ![my](my.png)
 
 ### 結果発表 (2024. 2. 29)
+- :shinto_shrine: won this game.  
 - ![item](feb29-01.jpg)
 - ![item](feb29-02.jpg)
 - ![item](feb29-03.jpg)
