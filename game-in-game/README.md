@@ -1,5 +1,10 @@
 # Ordinary companies vs. COEVO K. K. 
 
+**NOTE:** Of course, NTA's *Houjin-bangou Ko-hyo Site* tells you the accurate address of HQ of an organization, as declared in the article 58 of *Act on the Use of Numbers to Identify a Specific Individual in Administrative Procedures (行政手続における特定の個人を識別するための番号の利用等に関する法律):* 
+
+> *The Commissioner of the National Tax Agency must, pursuant to the provisions of Cabinet Orders, make public the trade name or name, the location of the head office or principal office, and the Corporation Number of a person that has been designated a Corporation Number (hereinafter referred to as a "Corporation Number Holder") pursuant to the provisions of paragraphs (1) and (2); provided, however, that with regard to Unincorporated Associations, etc., the Commissioner of the National Tax Agency must in advance obtain the consent of its representative or administrator.* 
+> https://www.japaneselawtranslation.go.jp/en/laws/view/2755
+
 ### 1. WHOIS the domain name registrants for these companies? 
 - [JPRS (Japan Registry Services)](https://en.wikipedia.org/wiki/Japan_Registry_Services) manages the .jp [TLD (top-level domain),](https://en.wikipedia.org/wiki/Top-level_domain) which COEVO uses for its domain name.  It also provides a service with which you can look up their [WHOIS](https://en.wikipedia.org/wiki/WHOIS) database online.  So let us see what it says for ordinary companies in Japan and our COEVO K. K.:
   - https://whois.jprs.jp/
