@@ -25,13 +25,12 @@ https://www.houjin-bangou.nta.go.jp/shitsumon/shosai.html?selQaId=00098
 
 ### スコアボード
 
-:shinto_shrine: **0** - **0** :people_holding_hands: 
+:shinto_shrine: **1** - **0** :people_holding_hands: 
 
 ### ゲーム２
-- 期限: (2/29以降発表予定)
+- 期限: 2024. 3. 12
 - ボーナス: 道頓堀で寒中水泳 + 着替えずに大阪駅まで歩く
-- ボーナス獲得条件: ゲーム１と同じ
-- サーブ: (2/29以降発表予定)
+- サーブ: ![game02](game02/my.png)
 
 ### ゲーム１
 - [Result](https://github.com/anissatta/tt-pingpong/tree/main/game01)
