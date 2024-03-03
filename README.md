@@ -29,6 +29,7 @@ https://www.houjin-bangou.nta.go.jp/shitsumon/shosai.html?selQaId=00098
 :shinto_shrine: **1** - **0** :people_holding_hands: 
 
 ### ゲーム２
+- [Result](https://github.com/anissatta/tt-pingpong/tree/main/game02)
 - 期限: 2024. 3. 12
 - ボーナス: 道頓堀で寒中水泳 + 着替えずに大阪駅まで歩く
 - サーブ: ![game02](game02/my.png)
