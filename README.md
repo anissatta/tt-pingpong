@@ -28,6 +28,11 @@ https://www.houjin-bangou.nta.go.jp/shitsumon/shosai.html?selQaId=00098
 
 :shinto_shrine: **1** - **0** :people_holding_hands: 
 
+### ゲーム3
+- 期限: 2024. 4. 2
+- ボーナス: 難波駅から五体投地をしながら道頓堀へ向かい、寒中水泳をする
+- サーブ: 3月12日以降公開予定
+
 ### ゲーム２
 - [Result](https://github.com/anissatta/tt-pingpong/tree/main/game02)
 - 期限: 2024. 3. 12
