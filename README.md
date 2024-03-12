@@ -21,7 +21,7 @@
 
 ### スコアボード
 
-:shinto_shrine: **1** - **0** :people_holding_hands: 
+:shinto_shrine: **2** - **0** :people_holding_hands: 
 
 ### ゲーム３
 - 期限: 2024. 4. 2
