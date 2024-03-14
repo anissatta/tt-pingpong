@@ -2,6 +2,11 @@
 
 ## :ping_pong: Make me cry (T.T) by winning this *Touki-Takkyu* game, a Table Tennis in which the server is always me and you shoot a [*Certificate of Registered Matters*](https://business-japan.jp/2019/04/28/japan-certificate-of-registered-matters-for-companies/) of a certain company instead of a ball into my mailbox. 
 
+### Who's afraid of Hayashida, Jeffery Bans? 
+- On the *Certificate of Registered Matters* of COEVO K. K., it is written that its president is *ハヤシダ・ジェフリー・バンス* (Hayashida, Jeffery Bans) and not *ハヤシダ・ジェフリー* or *ジェフリー・ハヤシダ,* so today I tried Google searching this, which may look strange to some of you.  I took a snapshot of the search thinking that such search result may change immediately so please take a look at this and search "ハヤシダ・ジェフリー・バンス" yourself ASAP.  Thank you.
+  - https://web.archive.org/web/20240314123901/https://www.google.com/search?q=%25E3%2583%258F%25E3%2583%25A4%25E3%2582%25B7%25E3%2583%2580%25E3%2583%25BB%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%2595%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25BB%25E3%2583%2590%25E3%2583%25B3%25E3%2582%25B9#ip=1
+  - http://archive.today/XBKMt
+
 ### Ordinary companies vs. COEVO K. K. 
 - https://github.com/anissatta/tt-pingpong/tree/main/game-in-game
 
