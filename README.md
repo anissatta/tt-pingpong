@@ -19,6 +19,7 @@
   - [大阪法務局 北大阪支局](https://houmukyoku.moj.go.jp/osaka/table/shikyokutou/all/kitaosaka.html)
 
 - **UPDATE:** You can order a Certificate of Registered Matters of COEVO K. K. at any branch of Legal Affairs Bureau in Japan.  
+- ![mar18-1](mar18-1.jpg)
 - ![mar13-1](mar13-1.jpg)
 - ![mar12-1](mar12-1.jpg)
 - ![feb27-1](feb27-1.jpg)
