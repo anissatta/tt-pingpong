@@ -31,6 +31,7 @@
 :shinto_shrine: **2** - **0** :people_holding_hands: 
 
 ### ゲーム３
+- [Result](https://github.com/anissatta/tt-pingpong/tree/main/game03)
 - 期限: 2024. 4. 2
 - ボーナス: 難波駅から五体投地をしながら道頓堀へ向かい、寒中水泳をする
 - サーブ: ![game03](game03/my.png)
