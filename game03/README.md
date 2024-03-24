@@ -10,6 +10,8 @@
 - ![item](mar25-02.jpg)
 - ![item](mar25-03.jpg)
 - ![item](mar25-04.jpg)
+  - 中身は実家から送ってもらったレインコートでした。
+    - ![unpack](mar25-unpack1.jpg)
 - ![item](mar25-05.jpg)
 - ![item](mar25-06.jpg)
 - ![item](mar25-07.jpg)
