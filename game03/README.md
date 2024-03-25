@@ -5,6 +5,15 @@
 ### :shinto_shrine: サーブ
 - ![my](my.png)
 
+### 中間発表 (2024. 3. 26) 
+- ![item](mar26-01.jpg)
+  - 中身はCoEvo株式会社の登記事項証明書2通でしたがこれはこちらから「アタック」する場合に備えて請求していたものです。
+    - ![unpack1](mar26-unpack1.jpg)
+    - ![unpack2](mar26-unpack2.jpg)
+    - ![unpack3](mar26-unpack3.jpg)
+    - ![unpack4](mar26-unpack4.jpg)
+- ![item](mar26-02.jpg)
+
 ### 中間発表 (2024. 3. 25) 
 - ![item](mar25-01.jpg)
 - ![item](mar25-02.jpg)
