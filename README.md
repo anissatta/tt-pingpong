@@ -2,6 +2,9 @@
 
 ## :ping_pong: Make me cry (T.T) by winning this *Touki-Takkyu* game, a Table Tennis in which the server is always me and you shoot a [*Certificate of Registered Matters*](https://business-japan.jp/2019/04/28/japan-certificate-of-registered-matters-for-companies/) of a certain company instead of a ball into my mailbox. 
 
+### (3/26) 昨日登記供託オンライン申請システムに下記の通り障害が発生していたようですが、直ったとのことですので昨日試みて駄目だった方は再トライしてみて下さい。
+- https://www.touki-kyoutaku-online.moj.go.jp/information/info_202403.html#HI202403253981
+
 ### Funny stuff 
 - On March 8, 2024, KFC Japan performed a ritual at the *Sumiyoshi-taisha* shrine to safely destroy the statue, owned by it and well known for being found at the *Dotonbori* river 24 years after getting thrown into it and having cursed Hanshin Tigers for 38 years making it unable to win the title during the period.  
 - ![kfc](kfc.jpg)
